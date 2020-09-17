@@ -1,1 +1,1 @@
-# Sources service
+Run `./setup.sh` to boostrap
